@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Emerson Palatti 👋</h1>
 
 <p align="center">
-  <b>Data Scientist & Analysis Jr. • Estatística & Ciência de Dados </b><br>
+  <b>Data Scientist & Analysis Jr. • Estatística & Ciência de Dados</b><br>
   São Paulo, Brasil 🇧🇷
 </p>
 
@@ -13,8 +13,9 @@ Estou iniciando minha carreira em **Data Science**, com quase 2 anos de experiê
 
 Curso **Estatística na Universidade São Judas Tadeu** e **Tecnólogo em Ciência de Dados pela Cruzeiro do Sul**, buscando uma base sólida entre teoria estatística e aplicação prática.
 
-Meu objetivo é me consolidar como **Cientista de Dados**, e para isso estou constantemente estudando **Machine Learning, LLMs, Vibe Coding para Data e Front-end**, além de desenvolver
-projetos reais que reflitam essa evolução.
+Meu objetivo é me consolidar como **Cientista de Dados**, e para isso estou constantemente estudando **Machine Learning, LLMs, Vibe Coding para Data e Front-end**, além de desenvolver projetos reais que reflitam essa evolução.
+
+Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — acredito que a busca ativa pelo conhecimento é o centro de tudo.
 
 ---
 
@@ -29,6 +30,7 @@ projetos reais que reflitam essa evolução.
 
 ### 🗄️ Banco de Dados & BI
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel%20Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -42,7 +44,15 @@ projetos reais que reflitam essa evolução.
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [📈 Dashboard de Vendas](https://github.com/EmersonPalatti/dashboard_vendas) | Dashboard interativo de análise de vendas | Python |
+| 🛒 SalesApp | WebApp para controle e análise de vendas com dashboard interativo | Python, Streamlit |
+| 🗃️ CRUD com SQLAlchemy | Criação de base de dados com operações CRUD completas | Python, SQLAlchemy, SQL |
+| 🏙️ Preços de Apartamentos | Previsão de preços com regressão e feature engineering | Python, Scikit-Learn |
+| 🎓 Segmentação de Universidades | Clusterização e segmentação de universidades americanas | Python, K-Means, Scikit-Learn |
+| 📣 Regressão Logística | Classificação em dados de publicidade com métricas de avaliação | Python, Scikit-Learn |
+| ⚖️ Obesidade e PIB | Análise exploratória correlacionando índices de obesidade e PIB | Python, Pandas, Plotly |
+| ⛽ Preços da Gasolina | Análise dos preços da gasolina no Brasil com dados públicos | Python, Pandas, Plotly |
+
+> 🚧 Portfólio em construção — novos projetos sendo adicionados continuamente!
 
 ---
 
@@ -57,5 +67,5 @@ projetos reais que reflitam essa evolução.
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-amaro/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:en.amaro.emerson@gmail.com)
