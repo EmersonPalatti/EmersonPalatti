@@ -50,7 +50,7 @@ Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — a
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🛒 SalesApp | WebApp para controle e análise de vendas com dashboard interativo | Python, Streamlit |
+| 🛒 ![SalesApp](https://salesapp-demo.streamlit.app/) | WebApp para controle e análise de vendas com dashboard interativo | Python, Streamlit, Plotly, Humanize |
 | 🗃️ CRUD com SQLAlchemy | Criação de base de dados com operações CRUD completas | Python, SQLAlchemy, SQL |
 | 🏙️ Preços de Apartamentos | Previsão de preços com regressão e feature engineering | Python, Scikit-Learn |
 | 🎓 Segmentação de Universidades | Clusterização e segmentação de universidades americanas | Python, K-Means, Scikit-Learn |
