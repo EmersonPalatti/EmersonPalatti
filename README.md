@@ -54,7 +54,7 @@ Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — a
 | 🗃️ CRUD com SQLAlchemy | Criação de base de dados com operações CRUD completas | Python, SQLAlchemy, SQL |
 | 🏙️ Preços de Apartamentos | Previsão de preços com regressão e feature engineering | Python, Scikit-Learn |
 | 🎓 Segmentação de Universidades | Clusterização e segmentação de universidades americanas | Python, K-Means, Scikit-Learn |
-| 📣 Regressão Logística | Classificação em dados de publicidade com métricas de avaliação | Python, Scikit-Learn |
+| 📣 [Regressão Logística — Advertising](https://github.com/EmersonPalatti/simple-logistic-reg-advertising-data) | Classificação em dados de publicidade com métricas de avaliação | Python, Scikit-Learn |
 | ⚖️ Obesidade e PIB | Análise exploratória correlacionando índices de obesidade e PIB | Python, Pandas, Plotly |
 | ⛽ Preços da Gasolina | Análise dos preços da gasolina no Brasil com dados públicos | Python, Pandas, Plotly |
 | 📦 [Regressão Linear — E-commerce](https://github.com/EmersonPalatti/linear-reg-ecomm-data) | Regressão linear aplicada a dados de clientes de e-commerce para previsão de gastos | Python, Scikit-Learn, Pandas, Plotly |
