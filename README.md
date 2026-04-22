@@ -53,7 +53,7 @@ Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — a
 | 🛒 [SalesApp](https://salesapp-demo.streamlit.app/) | WebApp para controle e análise de vendas com dashboard interativo | Python, Streamlit, Plotly, Humanize |
 | 🗃️ CRUD com SQLAlchemy | Criação de base de dados com operações CRUD completas | Python, SQLAlchemy, SQL |
 | 🏙️ Preços de Apartamentos | Previsão de preços com regressão e feature engineering | Python, Scikit-Learn |
-| 🎓 Segmentação de Universidades | Clusterização e segmentação de universidades americanas | Python, K-Means, Scikit-Learn |
+| 🎓 [Segmentação de Universidades](https://github.com/EmersonPalatti/simple-universities-data-clustering) | Clusterização e segmentação de universidades americanas | Python, K-Means, Scikit-Learn |
 | 📣 [Regressão Logística — Advertising](https://github.com/EmersonPalatti/simple-logistic-reg-advertising-data) | Classificação em dados de publicidade com métricas de avaliação | Python, Scikit-Learn |
 | ⚖️ Obesidade e PIB | Análise exploratória correlacionando índices de obesidade e PIB | Python, Pandas, Plotly |
 | ⛽ Preços da Gasolina | Análise dos preços da gasolina no Brasil com dados públicos | Python, Pandas, Plotly |
