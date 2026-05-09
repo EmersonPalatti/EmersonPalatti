@@ -33,6 +33,9 @@ Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — a
 ### 🤖 AI Agents & LLMs
 ![Agno](https://img.shields.io/badge/Agno-000000?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Devin](https://img.shields.io/badge/Devin-111827?style=for-the-badge&logo=cognition&logoColor=white)
 
 ### 🗄️ Banco de Dados & BI
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
