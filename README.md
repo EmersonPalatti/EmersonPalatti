@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Emerson Palatti</h1>
+<h1 align="center">Olá, eu sou o Emerson Palatti 🤘</h1>
 
 <p align="center">
   <b>Data Science • Estatística • Analytics • Python</b><br>
