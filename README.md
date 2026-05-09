@@ -9,11 +9,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Estou construindo minha carreira em **Data Science e Analytics**, com quase 2 anos de experiência prática atuando com dados e tecnologia na **Merck**. Atualmente, atuo como **Assistente de Dados na Vertem**, contribuindo com análises, organização de dados e geração de insights para apoiar decisões de negócio.
+Atuo como **Assistente de Dados na Vertem**, trabalhando com análise, organização de dados e geração de insights para apoiar decisões de negócio. Antes disso, tive quase 2 anos de experiência prática com dados e tecnologia na **Merck**.
 
-Curso **Estatística na Universidade São Judas Tadeu** e **Tecnólogo em Ciência de Dados pela Cruzeiro do Sul**, buscando uma base sólida entre teoria estatística e aplicação prática.
+Curso **Estatística na Universidade São Judas Tadeu** e **Tecnólogo em Ciência de Dados pela Cruzeiro do Sul**, com interesse em aplicar estatística, programação e pensamento analítico para resolver problemas reais.
 
-Meu objetivo é me consolidar como **Cientista de Dados**, e para isso estou constantemente estudando **Machine Learning, LLMs, agentes de IA para desenvolvimento, Vibe Coding para Data e Front-end**, além de desenvolver projetos reais que reflitam essa evolução.
+Meu foco profissional está em **Data Science**, especialmente análise exploratória, modelagem, interpretação de resultados e comunicação clara de insights.
 
 Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — acredito que a busca ativa pelo conhecimento é o centro de tudo.
 
@@ -73,7 +73,6 @@ Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — a
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🏙️ Preços de Apartamentos | Previsão de preços com regressão e feature engineering | Python, Scikit-Learn |
 | 🎓 [Segmentação de Universidades](https://github.com/EmersonPalatti/simple-universities-data-clustering) | Clusterização e segmentação de universidades americanas | Python, K-Means, Scikit-Learn |
 | 📣 [Regressão Logística — Advertising](https://github.com/EmersonPalatti/simple-logistic-reg-advertising-data) | Classificação em dados de publicidade com métricas de avaliação | Python, Scikit-Learn |
 | 💳 [Análise de Crédito](https://github.com/EmersonPalatti/simple-credit-analysis) | Classificação de risco de crédito com Decision Tree e Random Forest | Python, Pandas, Scikit-Learn |
