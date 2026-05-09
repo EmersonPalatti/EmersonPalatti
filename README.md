@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Emerson Palatti 👋</h1>
 
 <p align="center">
-  <b>Assistente de Dados • Estatística & Ciência de Dados</b><br>
+  <b>Data Science • Estatística • Analytics • Python</b><br>
   São Paulo, Brasil 🇧🇷
 </p>
 
@@ -16,6 +16,14 @@ Curso **Estatística na Universidade São Judas Tadeu** e **Tecnólogo em Ciênc
 Meu objetivo é me consolidar como **Cientista de Dados**, e para isso estou constantemente estudando **Machine Learning, LLMs, agentes de IA para desenvolvimento, Vibe Coding para Data e Front-end**, além de desenvolver projetos reais que reflitam essa evolução.
 
 Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — acredito que a busca ativa pelo conhecimento é o centro de tudo.
+
+---
+
+## 🎯 Foco Atual
+
+- Evolução em **Data Science**, com foco em estatística aplicada, análise exploratória, modelagem e interpretação de resultados.
+- Desenvolvimento de projetos com **Python**, combinando notebooks, visualizações, testes estatísticos e comunicação de insights.
+- Uso prático de **agentes de IA para produtividade**, criação de skills e workflows com `AGENTS.md` e `CLAUDE.md`.
 
 ---
 
@@ -53,18 +61,30 @@ Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — a
 
 ## 📁 Projetos em Destaque
 
+### 📊 Data Science & Analytics
+
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🛒 [SalesApp](https://salesapp-demo.streamlit.app/) | WebApp para controle e análise de vendas com dashboard interativo | Python, Streamlit, Plotly, Humanize |
 | 🎓 [Student Churn Analysis Report](https://github.com/EmersonPalatti/student-churn-analysis-report) | Análise estatística de fatores associados ao cancelamento de alunos, com testes inferenciais e visualizações | Python, Pandas, Seaborn, Pingouin |
-| 🗃️ CRUD com SQLAlchemy | Criação de base de dados com operações CRUD completas | Python, SQLAlchemy, SQL |
+| ⚖️ Obesidade e PIB | Análise exploratória correlacionando índices de obesidade e PIB | Python, Pandas, Plotly |
+| ⛽ Preços da Gasolina | Análise dos preços da gasolina no Brasil com dados públicos | Python, Pandas, Plotly |
+
+### 🤖 Machine Learning
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
 | 🏙️ Preços de Apartamentos | Previsão de preços com regressão e feature engineering | Python, Scikit-Learn |
 | 🎓 [Segmentação de Universidades](https://github.com/EmersonPalatti/simple-universities-data-clustering) | Clusterização e segmentação de universidades americanas | Python, K-Means, Scikit-Learn |
 | 📣 [Regressão Logística — Advertising](https://github.com/EmersonPalatti/simple-logistic-reg-advertising-data) | Classificação em dados de publicidade com métricas de avaliação | Python, Scikit-Learn |
 | 💳 [Análise de Crédito](https://github.com/EmersonPalatti/simple-credit-analysis) | Classificação de risco de crédito com Decision Tree e Random Forest | Python, Pandas, Scikit-Learn |
-| ⚖️ Obesidade e PIB | Análise exploratória correlacionando índices de obesidade e PIB | Python, Pandas, Plotly |
-| ⛽ Preços da Gasolina | Análise dos preços da gasolina no Brasil com dados públicos | Python, Pandas, Plotly |
 | 📦 [Regressão Linear — E-commerce](https://github.com/EmersonPalatti/linear-reg-ecomm-data) | Regressão linear aplicada a dados de clientes de e-commerce para previsão de gastos | Python, Scikit-Learn, Pandas, Plotly |
+
+### 🧩 Apps, Dashboards & Dados
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🛒 [SalesApp](https://salesapp-demo.streamlit.app/) | WebApp para controle e análise de vendas com dashboard interativo | Python, Streamlit, Plotly, Humanize |
+| 🗃️ CRUD com SQLAlchemy | Criação de base de dados com operações CRUD completas | Python, SQLAlchemy, SQL |
 
 > 🚧 Portfólio em construção — novos projetos sendo adicionados continuamente!
 
