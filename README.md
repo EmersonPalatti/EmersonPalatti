@@ -28,7 +28,7 @@ Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — a
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-3A4F7A?style=for-the-badge&logo=python&logoColor=white)
+![Pingouin](https://img.shields.io/badge/Pingouin-3A4F7A?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 AI Agents & LLMs
 ![Agno](https://img.shields.io/badge/Agno-000000?style=for-the-badge&logo=python&logoColor=white)
