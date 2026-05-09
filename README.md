@@ -9,11 +9,11 @@
 
 ## Sobre mim
 
-Atuo como **Assistente de Dados na Vertem**, trabalhando com análise, organização de dados e geração de insights para apoiar decisões de negócio. Antes disso, tive quase 2 anos de experiência prática com dados e tecnologia na **Merck**.
+Atuo como **Assistente de Dados na Vertem**, trabalhando com análise, organização de dados e geração de insights para apoiar decisões de negócio. Antes disso, tive quase 2 anos de experiência com dados e tecnologia na **Merck**.
 
-Estudo **Estatística na Universidade São Judas Tadeu** e **Ciência de Dados pela Cruzeiro do Sul** porque vejo as duas áreas como complementares: a estatística fortalece a base teórica para formular hipóteses, medir incertezas e interpretar resultados; a ciência de dados transforma essa base em aplicação prática com programação, modelagem e comunicação de insights.
+Estudo **Estatística na Universidade São Judas Tadeu** e **Ciência de Dados pela Cruzeiro do Sul** porque vejo as duas áreas como complementares: estatística como base teórica para interpretar dados com critério, e ciência de dados como aplicação prática com programação, modelagem e comunicação de insights.
 
-Meu foco profissional está em **Data Science**, com interesse em análises que realmente gerem valor para o negócio. Tenho buscado evoluir principalmente em estatística aplicada, machine learning e interpretação de resultados, para construir análises e modelos que sejam tecnicamente consistentes e úteis para tomada de decisão.
+Meu foco profissional está em **Data Science**, especialmente estatística aplicada, machine learning e interpretação de resultados para apoiar decisões com mais consistência.
 
 Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia. Acredito que consistência, curiosidade e estudo contínuo são partes importantes do desenvolvimento profissional.
 
