@@ -51,6 +51,7 @@ Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — a
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 🛒 [SalesApp](https://salesapp-demo.streamlit.app/) | WebApp para controle e análise de vendas com dashboard interativo | Python, Streamlit, Plotly, Humanize |
+| 🎓 [Student Churn Analysis Report](https://github.com/EmersonPalatti/student-churn-analysis-report) | Análise estatística de fatores associados ao cancelamento de alunos, com testes inferenciais e visualizações | Python, Pandas, Seaborn, Pingouin |
 | 🗃️ CRUD com SQLAlchemy | Criação de base de dados com operações CRUD completas | Python, SQLAlchemy, SQL |
 | 🏙️ Preços de Apartamentos | Previsão de preços com regressão e feature engineering | Python, Scikit-Learn |
 | 🎓 [Segmentação de Universidades](https://github.com/EmersonPalatti/simple-universities-data-clustering) | Clusterização e segmentação de universidades americanas | Python, K-Means, Scikit-Learn |
