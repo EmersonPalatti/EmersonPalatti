@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Emerson Palatti 👋</h1>
 
 <p align="center">
-  <b>Data Scientist & Analysis Jr. • Estatística & Ciência de Dados</b><br>
+  <b>Assistente de Dados • Estatística & Ciência de Dados</b><br>
   São Paulo, Brasil 🇧🇷
 </p>
 
@@ -9,11 +9,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Estou iniciando minha carreira em **Data Science**, com quase 2 anos de experiência prática atuando com dados e tecnologia na **Merck**. Atualmente, ingresso no mercado financeiro como estagiário no **Bradesco Expresso**, focado na área de dados do time.
+Estou construindo minha carreira em **Data Science e Analytics**, com quase 2 anos de experiência prática atuando com dados e tecnologia na **Merck**. Atualmente, atuo como **Assistente de Dados na Vertem**, contribuindo com análises, organização de dados e geração de insights para apoiar decisões de negócio.
 
 Curso **Estatística na Universidade São Judas Tadeu** e **Tecnólogo em Ciência de Dados pela Cruzeiro do Sul**, buscando uma base sólida entre teoria estatística e aplicação prática.
 
-Meu objetivo é me consolidar como **Cientista de Dados**, e para isso estou constantemente estudando **Machine Learning, LLMs, Vibe Coding para Data e Front-end**, além de desenvolver projetos reais que reflitam essa evolução.
+Meu objetivo é me consolidar como **Cientista de Dados**, e para isso estou constantemente estudando **Machine Learning, LLMs, agentes de IA para desenvolvimento, Vibe Coding para Data e Front-end**, além de desenvolver projetos reais que reflitam essa evolução.
 
 Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — acredito que a busca ativa pelo conhecimento é o centro de tudo.
 
@@ -27,6 +27,8 @@ Fora dos dados, sou baterista de metalcore 🥁 e entusiasta de tecnologia — a
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pingouin](https://img.shields.io/badge/Pingouin-3A4F7A?style=for-the-badge&logo=python&logoColor=white)
 
