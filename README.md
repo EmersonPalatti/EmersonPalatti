@@ -13,7 +13,7 @@ Atuo como **Assistente de Dados na Vertem**, trabalhando com análise, organiza�
 
 Estudo **Estatística na Universidade São Judas Tadeu** e **Ciência de Dados pela Cruzeiro do Sul** porque vejo as duas áreas como complementares: estatística como base teórica para interpretar dados com critério, e ciência de dados como aplicação prática com programação, modelagem e comunicação de insights.
 
-Meu foco profissional está em **Data Science**, especialmente estatística aplicada, machine learning e interpretação de resultados para apoiar decisões com mais consistência.
+Meu foco profissional está em **Data Science**, especialmente estatística aplicada, machine learning e interpretação de resultados para apoiar decisões com mais consistência. Atualmente também construo pipelines de avaliação de LLMs e agentes de dados para automatizar e estruturar etapas de análise.
 
 Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia. Acredito que consistência, curiosidade e estudo contínuo são partes importantes do desenvolvimento profissional.
 
@@ -23,8 +23,8 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia. Acredito 
 
 - Fortalecer a base em **estatística aplicada** para entregar análises mais sólidas, com leitura crítica dos dados, testes adequados e conclusões conectadas ao objetivo da análise.
 - Evoluir em **Machine Learning**, indo além do treino de modelos para entender métricas, comparar abordagens, interpretar outputs e escolher modelos com critério.
-- Desenvolver projetos em **Python** que combinem análise exploratória, visualizações, testes estatísticos, modelagem e comunicação clara de resultados, como no projeto de churn de estudantes.
-- Aprofundar o uso de **LLMs e agentes de IA** em workflows de Data Science e Analytics, explorando aplicações em produtividade, estruturação de análises, validação de ideias, documentação e automação de etapas do trabalho.
+- Desenvolver projetos em **Python** que combinem análise exploratória, visualizações, testes estatísticos, modelagem e comunicação clara de resultados.
+- Construir **pipelines de avaliação de LLMs** e **agentes de dados** (orquestração, automação de ETL/insights e dashboards com agentes) para workflows de Data Science e Analytics.
 
 ---
 
@@ -42,17 +42,19 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia. Acredito 
 ![Pingouin](https://img.shields.io/badge/Pingouin-3A4F7A?style=for-the-badge&logo=python&logoColor=white)
 
 ### AI Agents & LLMs
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logo=python&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-000000?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Codex CLI](https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Devin](https://img.shields.io/badge/Devin-111827?style=for-the-badge&logo=cognition&logoColor=white)
 
 ### Banco de Dados & BI
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel%20Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel%20Avan%C3%A7ado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Desenvolvimento & Deploy
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -62,29 +64,31 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia. Acredito 
 
 ## Projetos em Destaque
 
+### Agentes de Dados & Avaliação de LLMs
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Prompt Lab](https://github.com/EmersonPalatti/prompt-lab) | Pipeline de avaliação de prompts para geração de SQL e limpeza de dados (versionamento, métricas determinísticas, contrato Pydantic) | Python, LiteLLM, OpenRouter, Streamlit, pytest |
+| [Agente de Automação de Relatórios](https://github.com/EmersonPalatti/agente-automacao-relatorios) | Agente LangGraph de ETL leve + insights + relatório Markdown/PDF, com medição de economia de tempo | Python, LangGraph, Polars, DuckDB, Streamlit |
+| [Dashboard Insight](https://github.com/EmersonPalatti/dashboard-insight) | Dashboard Streamlit de operações de food delivery com agente de insights e alertas no recorte filtrado | Python, Streamlit, Plotly, agente local/LLM |
+
 ### Data Science & Analytics
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [Student Churn Analysis Report](https://github.com/EmersonPalatti/student-churn-analysis-report) | Análise estatística de fatores associados ao cancelamento de alunos, com testes inferenciais e visualizações | Python, Pandas, Seaborn, Pingouin |
-| Obesidade e PIB | Análise exploratória correlacionando índices de obesidade e PIB | Python, Pandas, Plotly |
-| Preços da Gasolina | Análise dos preços da gasolina no Brasil com dados públicos | Python, Pandas, Plotly |
 
 ### Machine Learning
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Segmentação de Universidades](https://github.com/EmersonPalatti/simple-universities-data-clustering) | Clusterização e segmentação de universidades americanas | Python, K-Means, Scikit-Learn |
-| [Regressão Logística — Advertising](https://github.com/EmersonPalatti/simple-logistic-reg-advertising-data) | Classificação em dados de publicidade com métricas de avaliação | Python, Scikit-Learn |
 | [Análise de Crédito](https://github.com/EmersonPalatti/simple-credit-analysis) | Classificação de risco de crédito com Decision Tree e Random Forest | Python, Pandas, Scikit-Learn |
-| [Regressão Linear — E-commerce](https://github.com/EmersonPalatti/linear-reg-ecomm-data) | Regressão linear aplicada a dados de clientes de e-commerce para previsão de gastos | Python, Scikit-Learn, Pandas, Plotly |
 
-### Apps, Dashboards & Dados
+### Apps & Dashboards
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [SalesApp](https://salesapp-demo.streamlit.app/) | WebApp para controle e análise de vendas com dashboard interativo | Python, Streamlit, Plotly, Humanize |
-| CRUD com SQLAlchemy | Criação de base de dados com operações CRUD completas | Python, SQLAlchemy, SQL |
 
 > Portfólio em construção — novos projetos sendo adicionados continuamente.
 
