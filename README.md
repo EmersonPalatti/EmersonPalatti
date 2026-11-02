@@ -24,7 +24,7 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia. Acredito 
 - Fortalecer a base em **estatística aplicada** para entregar análises mais sólidas, com leitura crítica dos dados, testes adequados e conclusões conectadas ao objetivo da análise.
 - Evoluir em **Machine Learning**, indo além do treino de modelos para entender métricas, comparar abordagens, interpretar outputs e escolher modelos com critério.
 - Desenvolver projetos em **Python** que combinem análise exploratória, visualizações, testes estatísticos, modelagem e comunicação clara de resultados.
-- Construir **pipelines de avaliação de LLMs** e **agentes de dados** (orquestração, automação de ETL/insights e dashboards com agentes) para workflows de Data Science e Analytics.
+- Construir **pipelines de avaliação de LLMs** e **agentes de dados** (orquestração, automação de ETL/insights e dashboards com agentes) para workflows de Data Science e Analytics — incluindo análises em escala (ex.: 1M de reviews) e produtos interativos.
 
 ---
 
@@ -68,6 +68,8 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia. Acredito 
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [Steam Reviews Dashboard](https://github.com/EmersonPalatti/game-review-dashboard) | Dashboard interativo (Astro + FastAPI + ECharts) sobre 1M de reviews da Steam, com filtragem cruzada em 7 dimensões, KPIs reativos e presets analíticos | Astro, TypeScript, FastAPI, SQLite, ECharts, Python |
+| [Steam Game Reviews (1M)](https://github.com/EmersonPalatti/game-review) | Análise exploratória de 1M reviews Steam com orquestração de agentes (Gemini 4 Argon + Flash). Detecção de anomalias (uint32 underflow, copypasta) e insights de negócio sem dicionário prévio | Python, Pandas, Jupyter, AGENTS.md |
 | [Prompt Lab](https://github.com/EmersonPalatti/prompt-lab) | Pipeline de avaliação de prompts para geração de SQL e limpeza de dados (versionamento, métricas determinísticas, contrato Pydantic) | Python, LiteLLM, OpenRouter, Streamlit, pytest |
 | [Agente de Automação de Relatórios](https://github.com/EmersonPalatti/agente-automacao-relatorios) | Agente LangGraph de ETL leve + insights + relatório Markdown/PDF, com medição de economia de tempo | Python, LangGraph, Polars, DuckDB, Streamlit |
 | [Dashboard Insight](https://github.com/EmersonPalatti/dashboard-insight) | Dashboard Streamlit de operações de food delivery com agente de insights e alertas no recorte filtrado | Python, Streamlit, Plotly, agente local/LLM |
