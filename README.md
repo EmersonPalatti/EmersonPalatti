@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Emerson Palatti 🤘</h1>
 
 <p align="center">
-  <b>Data Science • Estatística • Analytics • Python</b><br>
+  <b>Data Analytics & AI • Agentes • Automação • Python</b><br>
   São Paulo, Brasil
 </p>
 
@@ -9,22 +9,22 @@
 
 ## Sobre mim
 
-Atuo como **Assistente de Dados na Vertem**, trabalhando com análise, organização de dados e geração de insights para apoiar decisões de negócio. Antes disso, tive quase 2 anos de experiência com dados e tecnologia na **Merck**.
+Uso IA para resolver problemas de negócio com dados: agentes que analisam e recomendam ações, automações que tiram horas de trabalho manual e painéis que dizem o que fazer, não só o que aconteceu.
 
-Estudo **Estatística na Universidade São Judas Tadeu** e **Ciência de Dados pela Cruzeiro do Sul** porque vejo as duas áreas como complementares: estatística como base teórica para interpretar dados com critério, e ciência de dados como aplicação prática com programação, modelagem e comunicação de insights.
+Atuo como **Assistente de Dados na Vertem**, onde criei um agente que monitora e corrige automaticamente jobs no Databricks (ganho de ~70% de produtividade, segundo a gestão) e um fluxo com IA que reduziu em 70% o tempo de migração de relatórios. Antes, na **Merck**, automatizei a extração de estoque do SAP (+90% de produtividade) e construí agentes de insights com Agno.
 
-Meu foco profissional está em **Data Science**, especialmente estatística aplicada, machine learning e interpretação de resultados para apoiar decisões com mais consistência. Atualmente também construo pipelines de avaliação de LLMs e agentes de dados para automatizar e estruturar etapas de análise.
+Estudo **Estatística na Universidade São Judas Tadeu** e **Ciência de Dados pela Cruzeiro do Sul**. A estatística é o que me faz desconfiar do número antes de confiar no agente: por isso meus projetos medem o que a IA acerta.
 
-Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia. Acredito que consistência, curiosidade e estudo contínuo são partes importantes do desenvolvimento profissional.
+Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia.
 
 ---
 
 ## Foco Atual
 
-- Fortalecer a base em **estatística aplicada** para entregar análises mais sólidas, com leitura crítica dos dados, testes adequados e conclusões conectadas ao objetivo da análise.
-- Evoluir em **Machine Learning**, indo além do treino de modelos para entender métricas, comparar abordagens, interpretar outputs e escolher modelos com critério.
-- Desenvolver projetos em **Python** que combinem análise exploratória, visualizações, testes estatísticos, modelagem e comunicação clara de resultados.
-- Construir **pipelines de avaliação de LLMs** e **agentes de dados** (orquestração, automação de ETL/insights e dashboards com agentes) para workflows de Data Science e Analytics — incluindo análises em escala (ex.: 1M de reviews) e produtos interativos.
+- Construir **agentes de dados** que fecham o ciclo: detectam o problema, sugerem a ação e avisam quem precisa agir.
+- **Medir a qualidade da IA** com avaliações determinísticas: taxa de acerto, números inventados, tempo e custo por execução.
+- **Automatizar processos** de ponta a ponta, do dado bruto ao relatório entregue, medindo o tempo economizado.
+- Aprofundar **estatística aplicada e Machine Learning** para sustentar as análises com critério.
 
 ---
 
@@ -47,32 +47,40 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia. Acredito 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-000000?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### Banco de Dados & BI
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel%20Avan%C3%A7ado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Desenvolvimento & Deploy
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## Projetos em Destaque
 
-### Agentes de Dados & Avaliação de LLMs
+### Agentes, Automação & Avaliação de LLMs
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Steam Reviews Dashboard](https://github.com/EmersonPalatti/game-review-dashboard) | Dashboard interativo (Astro + FastAPI + ECharts) sobre 1M de reviews da Steam, com filtragem cruzada em 7 dimensões, KPIs reativos e presets analíticos | Astro, TypeScript, FastAPI, SQLite, ECharts, Python |
-| [Steam Game Reviews (1M)](https://github.com/EmersonPalatti/game-review) | Análise exploratória de 1M reviews Steam com orquestração de agentes (Gemini 4 Argon + Flash). Detecção de anomalias (uint32 underflow, copypasta) e insights de negócio sem dicionário prévio | Python, Pandas, Jupyter, AGENTS.md |
-| [Prompt Lab](https://github.com/EmersonPalatti/prompt-lab) | Pipeline de avaliação de prompts para geração de SQL e limpeza de dados (versionamento, métricas determinísticas, contrato Pydantic) | Python, LiteLLM, OpenRouter, Streamlit, pytest |
-| [Agente de Automação de Relatórios](https://github.com/EmersonPalatti/agente-automacao-relatorios) | Agente LangGraph de ETL leve + insights + relatório Markdown/PDF, com medição de economia de tempo | Python, LangGraph, Polars, DuckDB, Streamlit |
-| [Dashboard Insight](https://github.com/EmersonPalatti/dashboard-insight) | Dashboard Streamlit de operações de food delivery com agente de insights e alertas no recorte filtrado | Python, Streamlit, Plotly, agente local/LLM |
+| Projeto | Problema que resolve | Resultado | Tecnologias |
+|---|---|---|---|
+| [Central de Operações](https://github.com/EmersonPalatti/dashboard-insight) · [app](https://dashboard-insight-kappa.vercel.app/) | Operador de delivery precisa saber o que fazer hoje, não só ver gráficos | Painel sobre 368.990 pedidos reais (32 hubs) com alertas que dizem quem age, onde e quando, e agente com tool calling preso ao recorte filtrado | FastAPI, DuckDB, Astro, React, OpenRouter |
+| [Agente de Automação de Relatórios](https://github.com/EmersonPalatti/agente-automacao-relatorios) · [app](https://agente-automacao-relatorios.streamlit.app/) | Relatórios de EDA recorrentes levam horas de trabalho manual | Relatório completo em ~2 min (estimativa manual: 3h30). Código gerado pelo LLM resolve 100% das análises, com 2,9% de números não rastreáveis aos dados | LangGraph, Polars, DuckDB, LiteLLM, Streamlit |
+| [Prompt Lab](https://github.com/EmersonPalatti/prompt-lab) | Saber se uma mudança de prompt melhora ou só parece melhorar | pass_rate de 0,00 → 1,00 em geração de SQL mudando só o contrato de saída; few-shot não ajudou | LiteLLM, Pydantic, DuckDB, pytest, CI |
+| [Steam Reviews Dashboard](https://github.com/EmersonPalatti/game-review-dashboard) · [app](https://game-review-dashboard-sage.vercel.app/) | Explorar 1M de avaliações sem rodar notebook | Filtragem cruzada em 8 dimensões com respostas rápidas e agente que conversa sobre o recorte | Astro, FastAPI, DuckDB, PostgreSQL/Supabase, ECharts |
 
 ### Data Science & Analytics
 
