@@ -23,7 +23,7 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia.
 
 - Construir **agentes de dados** que fecham o ciclo: detectam o problema, sugerem a ação e avisam quem precisa agir.
 - **Medir a qualidade da IA** com avaliações determinísticas: taxa de acerto, números inventados, tempo e custo por execução.
-- **Automatizar processos** de ponta a ponta, do dado bruto ao relatório entregue, medindo o tempo economizado.
+- **Automatizar processos** de ponta a ponta com Python e n8n, do dado bruto à mensagem entregue a quem precisa agir, medindo o tempo economizado.
 - Aprofundar **estatística aplicada e Machine Learning** para sustentar as análises com critério.
 
 ---
@@ -41,7 +41,7 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia.
 ![Pingouin](https://img.shields.io/badge/Pingouin-3A4F7A?style=for-the-badge&logo=python&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
-### IA, Agentes & LLMs
+### IA, Agentes & Automação
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -49,6 +49,7 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia.
 ![Agno](https://img.shields.io/badge/Agno-000000?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
@@ -90,8 +91,8 @@ Fora dos dados, sou baterista de metalcore e entusiasta de tecnologia.
 
 | Projeto | Problema que resolve | Resultado | Tecnologias |
 |---|---|---|---|
-| [Central de Operações](https://github.com/EmersonPalatti/dashboard-insight) · [app](https://dashboard-insight-kappa.vercel.app/) | Operador de delivery precisa saber o que fazer hoje, não só ver gráficos | Painel sobre 368.990 pedidos reais (32 hubs) com alertas que dizem quem age, onde e quando, e agente com tool calling preso ao recorte filtrado | FastAPI, DuckDB, Astro, React, OpenRouter |
-| [Agente de Automação de Relatórios](https://github.com/EmersonPalatti/agente-automacao-relatorios) · [app](https://agente-automacao-relatorios.streamlit.app/) | Relatórios de EDA recorrentes levam horas de trabalho manual | Relatório completo em ~2 min (estimativa manual: 3h30). Código gerado pelo LLM resolve 100% das análises, com 2,9% de números não rastreáveis aos dados | LangGraph, Polars, DuckDB, LiteLLM, Streamlit |
+| [Central de Operações](https://github.com/EmersonPalatti/dashboard-insight) · [app](https://dashboard-insight-kappa.vercel.app/) | Operador de delivery precisa saber o que fazer hoje, não só ver gráficos | Painel sobre 368.990 pedidos reais (32 hubs) com alertas que dizem quem age, onde e quando. Automação no n8n envia o briefing diário no Telegram e encaminha cada alerta ao responsável | FastAPI, DuckDB, Astro, React, OpenRouter, n8n |
+| [Agente de Automação de Relatórios](https://github.com/EmersonPalatti/agente-automacao-relatorios) · [app](https://agente-automacao-relatorios.streamlit.app/) | Relatórios de EDA recorrentes levam horas de trabalho manual | Relatório completo em ~2 min (estimativa manual: 1h45, −98%). Código gerado pelo LLM resolve 100% das análises, com 2,9% de números não rastreáveis aos dados | LangGraph, Polars, DuckDB, LiteLLM, Streamlit |
 | [Prompt Lab](https://github.com/EmersonPalatti/prompt-lab) | Saber se uma mudança de prompt melhora ou só parece melhorar | pass_rate de 0,00 → 1,00 em geração de SQL mudando só o contrato de saída; few-shot não ajudou | LiteLLM, Pydantic, DuckDB, pytest, CI |
 | [Steam Reviews Dashboard](https://github.com/EmersonPalatti/game-review-dashboard) · [app](https://game-review-dashboard-sage.vercel.app/) | Explorar 1M de avaliações sem rodar notebook | Filtragem cruzada em 8 dimensões com respostas rápidas e agente que conversa sobre o recorte | Astro, FastAPI, DuckDB, PostgreSQL/Supabase, ECharts |
 
